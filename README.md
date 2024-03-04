@@ -22,11 +22,10 @@ This is a project for an online food ordering system developed using HTML, CSS, 
 
 ## Screenshots
 
-![Screenshot1](/images/screenshot1.png)
-Caption for Screenshot 1
+![WhatsApp Image 2024-03-04 at 7 34 04 PM](https://github.com/ashifahmed-924/Online-food-ordering-system/assets/159910065/642dc39c-d15c-4734-a09b-b7d30ffeb703)
 
-![Screenshot2](/images/screenshot2.png)
-Caption for Screenshot 2
+![20526a1a-b670-443c-93f1-766d23db5fe0](https://github.com/ashifahmed-924/Online-food-ordering-system/assets/159910065/8a3a562a-22c0-4723-ad2c-845db3c1ae4f)
+
 
 ## Getting Started
 
